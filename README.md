@@ -27,4 +27,13 @@
 # 회원가입 구현 
 
 
-# 다른패턴의 회원가입 구현
+https://user-images.githubusercontent.com/128597230/235418206-23a896ee-08f1-4a61-91a6-3f4bf3e308b7.mp4
+
+
+  
+# MySQL 
+  
+  ![image](https://user-images.githubusercontent.com/128597230/235418065-1992fabc-58f2-40ab-b90e-2418120b818b.png)
+
+
+# 다른 패턴의 코드구성 회원가입 구현
